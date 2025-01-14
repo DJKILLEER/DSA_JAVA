@@ -1,0 +1,8 @@
+
+public class JavaBasics {
+    public static void main(String args[]) {
+    System.out.println("hello world\nhello world\n hello world");
+   
+    }
+    
+}
